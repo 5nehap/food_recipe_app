@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:food_recipe_app/view/bookmarks_screen/bookmarkscreen.dart';
 import 'package:food_recipe_app/view/create_recipe_screen/create_recipe_screen.dart';
 import 'package:food_recipe_app/view/homescreen/homescreen.dart';
+import 'package:food_recipe_app/view/notification_screen/notificationscreen.dart';
 import 'package:food_recipe_app/view/profilescreen/profilescreen.dart';
 
 class BottomNavbar extends StatefulWidget {
@@ -16,9 +17,7 @@ class _BottomNavbarState extends State<BottomNavbar> {
   List screens = [
     Homescreen(),
     Bookmarkscreen(),
-    Container(
-      color: Colors.blue,
-    ),
+    Notificationscreen(),
     Profilescreen(),
   ];
   @override

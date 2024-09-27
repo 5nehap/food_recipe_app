@@ -70,6 +70,8 @@ class _BookmarkscreenState extends State<Bookmarkscreen> {
                   height: 16,
                 ),
             itemCount: DummyDb.trendingNowList.length),
+            
+            
       ),
     );
   }

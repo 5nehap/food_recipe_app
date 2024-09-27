@@ -171,5 +171,56 @@ class DummyDb {
       "gram": "1 liter"
     }
   ];
+  static List Recipecard = [
+  {
+    "image": "https://images.pexels.com/photos/691114/pexels-photo-691114.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "title": "How to make Italian Spaghetti at home",
+    "rating": "4.5",
+    "Ingredients": "12 Ingredients | 40 min"
+  },
+  {
+    "image": "https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "title": "Classic Margherita Pizza",
+    "rating": "4.7",
+    "Ingredients": "8 Ingredients | 30 min"
+  },
+  {
+    "image": "https://images.pexels.com/photos/461198/pexels-photo-461198.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "title": "Chicken Alfredo Pasta",
+    "rating": "4.6",
+    "Ingredients": "10 Ingredients | 35 min"
+  },
+  {
+    "image": "https://images.pexels.com/photos/4228128/pexels-photo-4228128.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "title": "Vegetable Stir-Fry",
+    "rating": "4.4",
+    "Ingredients": "7 Ingredients | 25 min"
+  },
+  {
+    "image": "https://images.pexels.com/photos/1215060/pexels-photo-1215060.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "title": "Beef Tacos with Salsa",
+    "rating": "4.8",
+    "Ingredients": "9 Ingredients | 30 min"
+  },
+  {
+    "image": "https://images.pexels.com/photos/597047/pexels-photo-597047.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "title": "Chocolate Chip Cookies",
+    "rating": "4.9",
+    "Ingredients": "10 Ingredients | 20 min"
+  },
+  {
+    "image": "https://images.pexels.com/photos/373606/pexels-photo-373606.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "title": "Caesar Salad",
+    "rating": "4.5",
+    "Ingredients": "8 Ingredients | 15 min"
+  },
+  {
+    "image": "https://images.pexels.com/photos/1048975/pexels-photo-1048975.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "title": "Shrimp Scampi",
+    "rating": "4.7",
+    "Ingredients": "9 Ingredients | 30 min"
+  },
+];
+
   
 }
